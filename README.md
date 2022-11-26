@@ -1,1 +1,1 @@
-Instagram clone with Django.
+Complete instagram like social website with Django.
